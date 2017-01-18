@@ -31,3 +31,4 @@ PRODUCT_NAME := cos_herolte
 PRODUCT_DEVICE := herolte
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
+COS_RELEASE=true
